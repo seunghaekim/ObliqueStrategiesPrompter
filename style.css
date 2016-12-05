@@ -10,7 +10,7 @@ body {
 
 #deck_info {
     width: 15em;
-    margin: 1vh;
+    margin: 1%;
 }
 
 #card {
@@ -53,7 +53,7 @@ body {
     text-align: center;
 }
 
-.--vhcenter {
+[class="--vhcenter"] {
     position: absolute;
     margin: auto;
     top: 0;
@@ -62,7 +62,7 @@ body {
     left: 0;
 }
 
-.--hcenter {
+[class="--hcenter"] {
     height: 50px;
     position: absolute;
     left: 0;
@@ -71,13 +71,13 @@ body {
     bottom: 0;
 }
 
-.--hfull {
+[class="--hfull"] {
     width: 100%;
     position: absolute;
     bottom: 0;
-    margin-bottom: 1vh;
+    margin-bottom: 1%;
 }
 
-.--upper {
+[class="--upper"] {
     text-transform: uppercase;
 }
