@@ -2,106 +2,506 @@
 	"note": "Note: This file contains only the English texts found on the fourth edition Oblique Strategies deck, which is multilingual. Click here for more information on the fourth edition.",
 
 	"deck": [
-		{"en": "Abandon desire"},
-		{"en": "Abandon normal instructions"},
-		{"en": "Accept advice"},
-		{"en": "Adding on"},
-		{"en": "A line has two sides"},
-		{"en": "Always the first steps"},
-		{"en": "Ask people to work against their better judgement"},
-		{"en": "Ask your body"},
-		{"en": "Be dirty"},
-		{"en": "Be extravagant"},
-		{"en": "Be less critical"},
-		{"en": "Breathe more deeply"},
-		{"en": "Bridges -build -burn"},
-		{"en": "Change ambiguities to specifics"},
-		{"en": "Change nothing and continue consistently"},
-		{"en": "Change specifics to ambiguities"},
-		{"en": "Consider transitions"},
-		{"en": "Courage!"},
-		{"en": "Cut a vital connection"},
-		{"en": "Decorate, decorate"},
-		{"en": "Destroy nothing; Destroy the most important thing"},
-		{"en": "Discard an axiom"},
-		{"en": "Disciplined self-indulgence"},
-		{"en": "Discover your formulas and abandon them"},
-		{"en": "Display your talent"},
-		{"en": "Distort time"},
-		{"en": "Do nothing for as long as possible"},
-		{"en": "Don't avoid what is easy"},
-		{"en": "Don't break the silence"},
-		{"en": "Don't stress one thing more than another"},
-		{"en": "Do something boring"},
-		{"en": "Do something sudden, destructive and unpredictable"},
-		{"en": "Do the last thing first"},
-		{"en": "Do the words need changing?"},
-		{"en": "Emphasize differences"},
-		{"en": "Emphasize the flaws"},
-		{"en": "Faced with a choice, do both (from Dieter Rot)"},
-		{"en": "Find a safe part and use it as an anchor"},
-		{"en": "Give the game away"},
-		{"en": "Give way to your worst impulse"},
-		{"en": "Go outside. Shut the door."},
-		{"en": "Go to an extreme, come part way back"},
-		{"en": "How would someone else do it?"},
-		{"en": "How would you have done it?"},
-		{"en": "In total darkness, or in a very large room, very quietly"},
-		{"en": "Is it finished?"},
-		{"en": "Is something missing?"},
-		{"en": "Is the style right?"},
-		{"en": "It is simply a matter or work"},
-		{"en": "Just carry on"},
-		{"en": "Listen to the quiet voice"},
-		{"en": "Look at the order in which you do things"},
-		{"en": "Magnify the most difficult details"},
-		{"en": "Make it more sensual"},
-		{"en": "Make what's perfect more human"},
-		{"en": "Move towards the unimportant"},
-		{"en": "Not building a wall; making a brick"},
-		{"en": "Once the search has begun, something will be found"},
-		{"en": "Only a part, not the whole"},
-		{"en": "Only one element of each kind"},
-		{"en": "Openly resist change"},
-		{"en": "Pae White's non-blank graphic metacard"},
-		{"en": "Question the heroic"},
-		{"en": "Remember quiet evenings"},
-		{"en": "Remove a restriction"},
-		{"en": "Repetition is a form of change"},
-		{"en": "Retrace your steps"},
-		{"en": "Reverse"},
-		{"en": "Simple Subtraction"},
-		{"en": "Slow preparation, fast execution"},
-		{"en": "State the problem as clearly as possible"},
-		{"en": "Take a break"},
-		{"en": "Take away the important parts"},
-		{"en": "The inconsistency principle"},
-		{"en": "The most easily forgotten thing is the most important"},
-		{"en": "Think - inside the work -outside the work"},
-		{"en": "Tidy up"},
-		{"en": "Try faking it (from Stewart Brand)"},
-		{"en": "Turn it upside down"},
-		{"en": "Use an old idea"},
-		{"en": "Use cliches"},
-		{"en": "Use filters"},
-		{"en": "Use something nearby as a model"},
-		{"en": "Use 'unqualified' people"},
-		{"en": "Use your own ideas"},
-		{"en": "Voice your suspicions"},
-		{"en": "Water"},
-		{"en": "What context would look right?"},
-		{"en": "What is the simplest solution?"},
-		{"en": "What mistakes did you make last time?"},
-		{"en": "What to increase? What to reduce? What to maintain?"},
-		{"en": "What were you really thinking about just now?"},
-		{"en": "What wouldn't you do?"},
-		{"en": "What would your closest friend do?"},
-		{"en": "When is it for?"},
-		{"en": "Where is the edge?"},
-		{"en": "Which parts can be grouped?"},
-		{"en": "Work at a different speed"},
-		{"en": "Would anyone want it?"},
-		{"en": "Your mistake was a hidden intention"}
+		{
+			"en": "Abandon desire",
+			"ko":"",
+			"bgi":""
+		},
+		{
+			"en": "Abandon normal instructions",
+			"ko":"",
+			"bgi":""
+		},
+		{
+			"en": "Accept advice",
+			"ko":"충고를 받아들이라",
+			"bgi":""
+		},
+		{
+			"en": "Adding on",
+			"ko":"추가하라",
+			"bgi":""
+		},
+		{
+			"en": "A line has two sides",
+			"ko":"직선은 두 개의 측면을 가진다",
+			"bgi":""
+		},
+		{
+			"en": "Always the first steps",
+			"ko":"",
+			"bgi":""
+		},
+		{
+			"en": "Ask people to work against their better judgement",
+			"ko":"",
+			"bgi":""
+		},
+		{
+			"en": "Ask your body",
+			"ko":"",
+			"bgi":""
+		},
+		{
+			"en": "Be dirty",
+			"ko":"",
+			"bgi":""
+		},
+		{
+			"en": "Be extravagant",
+			"ko":"",
+			"bgi":""
+		},
+		{
+			"en": "Be less critical",
+			"ko":"",
+			"bgi":""
+		},
+		{
+			"en": "Breathe more deeply",
+			"ko":"",
+			"bgi":""
+		},
+		{
+			"en": "Bridges -build -burn",
+			"ko":"",
+			"bgi":""
+		},
+		{
+			"en": "Change ambiguities to specifics",
+			"ko":"",
+			"bgi":""
+		},
+		{
+			"en": "Change nothing and continue consistently",
+			"ko":"",
+			"bgi":""
+		},
+		{
+			"en": "Change specifics to ambiguities",
+			"ko":"",
+			"bgi":""
+		},
+		{
+			"en": "Consider transitions",
+			"ko":"",
+			"bgi":""
+		},
+		{
+			"en": "Courage!",
+			"ko":"",
+			"bgi":""
+		},
+		{
+			"en": "Cut a vital connection",
+			"ko":"",
+			"bgi":""
+		},
+		{
+			"en": "Decorate, decorate",
+			"ko":"",
+			"bgi":""
+		},
+		{
+			"en": "Destroy nothing; Destroy the most important thing",
+			"ko":"",
+			"bgi":""
+		},
+		{
+			"en": "Discard an axiom",
+			"ko":"",
+			"bgi":""
+		},
+		{
+			"en": "Disciplined self-indulgence",
+			"ko":"",
+			"bgi":""
+		},
+		{
+			"en": "Discover your formulas and abandon them",
+			"ko":"",
+			"bgi":""
+		},
+		{
+			"en": "Display your talent",
+			"ko":"",
+			"bgi":""
+		},
+		{
+			"en": "Distort time",
+			"ko":"",
+			"bgi":""
+		},
+		{
+			"en": "Do nothing for as long as possible",
+			"ko":"",
+			"bgi":""
+		},
+		{
+			"en": "Don't avoid what is easy",
+			"ko":"쉬운 길을 피하지 말라",
+			"bgi":""
+		},
+		{
+			"en": "Don't break the silence",
+			"ko":"침묵을 깨지 말라",
+			"bgi":""
+		},
+		{
+			"en": "Don't stress one thing more than another",
+			"ko":"",
+			"bgi":""
+		},
+		{
+			"en": "Do something boring",
+			"ko":"지루한 일을 해보라",
+			"bgi":""
+		},
+		{
+			"en": "Do something sudden, destructive and unpredictable",
+			"ko":"",
+			"bgi":""
+		},
+		{
+			"en": "Do the last thing first",
+			"ko":"",
+			"bgi":""
+		},
+		{
+			"en": "Do the words need changing?",
+			"ko":"",
+			"bgi":""
+		},
+		{
+			"en": "Emphasize differences",
+			"ko":"",
+			"bgi":""
+		},
+		{
+			"en": "Emphasize the flaws",
+			"ko":"",
+			"bgi":""
+		},
+		{
+			"en": "Faced with a choice, do both (from Dieter Rot)",
+			"ko":"",
+			"bgi":""
+		},
+		{
+			"en": "Find a safe part and use it as an anchor",
+			"ko":"",
+			"bgi":""
+		},
+		{
+			"en": "Give the game away",
+			"ko":"",
+			"bgi":""
+		},
+		{
+			"en": "Give way to your worst impulse",
+			"ko":"",
+			"bgi":""
+		},
+		{
+			"en": "Go outside. Shut the door.",
+			"ko":"",
+			"bgi":""
+		},
+		{
+			"en": "Go to an extreme, come part way back",
+			"ko":"",
+			"bgi":""
+		},
+		{
+			"en": "How would someone else do it?",
+			"ko":"",
+			"bgi":""
+		},
+		{
+			"en": "How would you have done it?",
+			"ko":"",
+			"bgi":""
+		},
+		{
+			"en": "In total darkness, or in a very large room, very quietly",
+			"ko":"",
+			"bgi":""
+		},
+		{
+			"en": "Is it finished?",
+			"ko":"",
+			"bgi":""
+		},
+		{
+			"en": "Is something missing?",
+			"ko":"",
+			"bgi":""
+		},
+		{
+			"en": "Is the style right?",
+			"ko":"",
+			"bgi":""
+		},
+		{
+			"en": "It is simply a matter or work",
+			"ko":"",
+			"bgi":""
+		},
+		{
+			"en": "Just carry on",
+			"ko":"",
+			"bgi":""
+		},
+		{
+			"en": "Listen to the quiet voice",
+			"ko":"",
+			"bgi":""
+		},
+		{
+			"en": "Look at the order in which you do things",
+			"ko":"",
+			"bgi":""
+		},
+		{
+			"en": "Magnify the most difficult details",
+			"ko":"",
+			"bgi":""
+		},
+		{
+			"en": "Make it more sensual",
+			"ko":"",
+			"bgi":""
+		},
+		{
+			"en": "Make what's perfect more human",
+			"ko":"",
+			"bgi":""
+		},
+		{
+			"en": "Move towards the unimportant",
+			"ko":"",
+			"bgi":""
+		},
+		{
+			"en": "Not building a wall; making a brick",
+			"ko":"",
+			"bgi":""
+		},
+		{
+			"en": "Once the search has begun, something will be found",
+			"ko":"",
+			"bgi":""
+		},
+		{
+			"en": "Only a part, not the whole",
+			"ko":"",
+			"bgi":""
+		},
+		{
+			"en": "Only one element of each kind",
+			"ko":"",
+			"bgi":""
+		},
+		{
+			"en": "Openly resist change",
+			"ko":"",
+			"bgi":""
+		},
+		{
+			"en": "Pae White's non-blank graphic metacard",
+			"ko":"",
+			"bgi":""
+		},
+		{
+			"en": "Question the heroic",
+			"ko":"",
+			"bgi":""
+		},
+		{
+			"en": "Remember quiet evenings",
+			"ko":"",
+			"bgi":""
+		},
+		{
+			"en": "Remove a restriction",
+			"ko":"",
+			"bgi":""
+		},
+		{
+			"en": "Repetition is a form of change",
+			"ko":"",
+			"bgi":""
+		},
+		{
+			"en": "Retrace your steps",
+			"ko":"",
+			"bgi":""
+		},
+		{
+			"en": "Reverse",
+			"ko":"",
+			"bgi":""
+		},
+		{
+			"en": "Simple Subtraction",
+			"ko":"",
+			"bgi":""
+		},
+		{
+			"en": "Slow preparation, fast execution",
+			"ko":"",
+			"bgi":""
+		},
+		{
+			"en": "State the problem as clearly as possible",
+			"ko":"",
+			"bgi":""
+		},
+		{
+			"en": "Take a break",
+			"ko":"",
+			"bgi":""
+		},
+		{
+			"en": "Take away the important parts",
+			"ko":"",
+			"bgi":""
+		},
+		{
+			"en": "The inconsistency principle",
+			"ko":"",
+			"bgi":""
+		},
+		{
+			"en": "The most easily forgotten thing is the most important",
+			"ko":"",
+			"bgi":""
+		},
+		{
+			"en": "Think - inside the work -outside the work",
+			"ko":"",
+			"bgi":""
+		},
+		{
+			"en": "Tidy up",
+			"ko":"",
+			"bgi":""
+		},
+		{
+			"en": "Try faking it (from Stewart Brand)",
+			"ko":"",
+			"bgi":""
+		},
+		{
+			"en": "Turn it upside down",
+			"ko":"",
+			"bgi":""
+		},
+		{
+			"en": "Use an old idea",
+			"ko":"",
+			"bgi":""
+		},
+		{
+			"en": "Use cliches",
+			"ko":"",
+			"bgi":""
+		},
+		{
+			"en": "Use filters",
+			"ko":"",
+			"bgi":""
+		},
+		{
+			"en": "Use something nearby as a model",
+			"ko":"",
+			"bgi":""
+		},
+		{
+			"en": "Use 'unqualified' people",
+			"ko":"",
+			"bgi":""
+		},
+		{
+			"en": "Use your own ideas",
+			"ko":"",
+			"bgi":""
+		},
+		{
+			"en": "Voice your suspicions",
+			"ko":"",
+			"bgi":""
+		},
+		{
+			"en": "Water",
+			"ko":"",
+			"bgi":""
+		},
+		{
+			"en": "What context would look right?",
+			"ko":"",
+			"bgi":""
+		},
+		{
+			"en": "What is the simplest solution?",
+			"ko":"",
+			"bgi":""
+		},
+		{
+			"en": "What mistakes did you make last time?",
+			"ko":"",
+			"bgi":""
+		},
+		{
+			"en": "What to increase? What to reduce? What to maintain?",
+			"ko":"",
+			"bgi":""
+		},
+		{
+			"en": "What were you really thinking about just now?",
+			"ko":"",
+			"bgi":""
+		},
+		{
+			"en": "What wouldn't you do?",
+			"ko":"",
+			"bgi":""
+		},
+		{
+			"en": "What would your closest friend do?",
+			"ko":"",
+			"bgi":""
+		},
+		{
+			"en": "When is it for?",
+			"ko":"",
+			"bgi":""
+		},
+		{
+			"en": "Where is the edge?",
+			"ko":"",
+			"bgi":""
+		},
+		{
+			"en": "Which parts can be grouped?",
+			"ko":"",
+			"bgi":""
+		},
+		{
+			"en": "Work at a different speed",
+			"ko":"",
+			"bgi":""
+		},
+		{
+			"en": "Would anyone want it?",
+			"ko":"",
+			"bgi":""
+		},
+		{
+			"en": "Your mistake was a hidden intention",
+			"ko":"",
+			"bgi":""
+			}
 	],
 
 	"copyright": {

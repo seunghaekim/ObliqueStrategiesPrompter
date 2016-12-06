@@ -1,119 +1,575 @@
 {
     "deck": [
-        {"en": "Abandon normal instruments"},
-        {"en": "Accept advice"},
-        {"en": "Accretion"},
-        {"en": "A line has two sides"},
-        {"en": "Allow an easement (an easement is the abandonment of a stricture)"},
-        {"en": "Are there sections? Consider transitions"},
-        {"en": "Ask people to work against their better judgement"},
-        {"en": "Ask your body"},
-        {"en": "Assemble some of the instruments in a group and treat the group"},
-        {"en": "Balance the consistency principle with the inconsistency principle"},
-        {"en": "Be dirty"},
-        {"en": "Breathe more deeply"},
-        {"en": "Bridges -build -burn"},
-        {"en": "Cascades"},
-        {"en": "Change instrument roles"},
-        {"en": "Change nothing and continue with immaculate consistency"},
-        {"en": "Children's voices -speaking -singing"},
-        {"en": "Cluster analysis"},
-        {"en": "Consider different fading systems"},
-        {"en": "Consult other sources -promising -unpromising"},
-        {"en": "Convert a melodic element into a rhythmic element"},
-        {"en": "Courage!"},
-        {"en": "Cut a vital connection"},
-        {"en": "Decorate, decorate"},
-        {"en": "Define an area as 'safe' and use it as an anchor"},
-        {"en": "Destroy -nothing -the most important thing"},
-        {"en": "Discard an axiom"},
-        {"en": "Disconnect from desire"},
-        {"en": "Discover the recipes you are using and abandon them"},
-        {"en": "Distorting time"},
-        {"en": "Do nothing for as long as possible"},
-        {"en": "Don't be afraid of things because they're easy to do"},
-        {"en": "Don't be frightened of cliches"},
-        {"en": "Don't be frightened to display your talents"},
-        {"en": "Don't break the silence"},
-        {"en": "Don't stress one thing more than another"},
-        {"en": "Do something boring"},
-        {"en": "Do the washing up"},
-        {"en": "Do the words need changing?"},
-        {"en": "Do we need holes?"},
-        {"en": "Emphasise differences"},
-        {"en": "Emphasise repetitions"},
-        {"en": "Emphasise the flaws"},
-        {"en": "Faced with a choice, do both (given by Dieter Rot)"},
-        {"en": "Feedback recordings into an acoustic situation"},
-        {"en": "Fill every beat with something"},
-        {"en": "Get your neck massaged"},
-        {"en": "Ghost echoes"},
-        {"en": "Give the game away"},
-        {"en": "Give way to your worst impulse"},
-        {"en": "Go slowly all the way round the outside"},
-        {"en": "Honor thy error as a hidden intention"},
-        {"en": "How would you have done it?"},
-        {"en": "Humanise something free of error"},
-        {"en": "Imagine the music as a moving chain or caterpillar"},
-        {"en": "Imagine the music as a set of disconnected events"},
-        {"en": "Infinitesimal gradations"},
-        {"en": "Intentions -credibility of -nobility of -humility of"},
-        {"en": "Into the impossible"},
-        {"en": "Is it finished?"},
-        {"en": "Is there something missing?"},
-        {"en": "Is the tuning appropriate?"},
-        {"en": "Just carry on"},
-        {"en": "Left channel, right channel, centre channel"},
-        {"en": "Listen in total darkness, or in a very large room, very quietly"},
-        {"en": "Listen to the quiet voice"},
-        {"en": "Look at a very small object, look at its centre"},
-        {"en": "Look at the order in which you do things"},
-        {"en": "Look closely at the most embarrassing details and amplify them"},
-        {"en": "Lowest common denominator check -single beat -single note -single riff"},
-        {"en": "Make a blank valuable by putting it in an exquisite frame"},
-        {"en": "Make an exhaustive list of everything you might do and do the last thing on the list"},
-        {"en": "Make a sudden, destructive unpredictable action; incorporate"},
-        {"en": "Mechanicalise something idiosyncratic"},
-        {"en": "Mute and continue"},
-        {"en": "Only one element of each kind"},
-        {"en": "(Organic) machinery"},
-        {"en": "Overtly resist change"},
-        {"en": "Put in earplugs"},
-        {"en": "Remember .those quiet evenings"},
-        {"en": "Remove ambiguities and convert to specifics"},
-        {"en": "Remove specifics and convert to ambiguities"},
-        {"en": "Repetition is a form of change"},
-        {"en": "Reverse"},
-        {"en": "Short circuit (example; a man eating peas with the idea that they will improve his virility shovels them straight into his lap)"},
-        {"en": "Shut the door and listen from outside"},
-        {"en": "Simple subtraction"},
-        {"en": "Spectrum analysis"},
-        {"en": "Take a break"},
-        {"en": "Take away the elements in order of apparent non-importance"},
-        {"en": "Tape your mouth (given by Ritva Saarikko)"},
-        {"en": "The inconsistency principle"},
-        {"en": "The tape is now the music"},
-        {"en": "Think of the radio"},
-        {"en": "Tidy up"},
-        {"en": "Trust in the you of now"},
-        {"en": "Turn it upside down"},
-        {"en": "Twist the spine"},
-        {"en": "Use an old idea"},
-        {"en": "Use an unacceptable colour"},
-        {"en": "Use fewer notes"},
-        {"en": "Use filters"},
-        {"en": "Use 'unqualified' people"},
-        {"en": "Water"},
-        {"en": "What are you really thinking about just now? Incorporate"},
-        {"en": "What is the reality of the situation?"},
-        {"en": "What mistakes did you make last time?"},
-        {"en": "What would your closest friend do?"},
-        {"en": "What wouldn't you do?"},
-        {"en": "Work at a different speed"},
-        {"en": "You are an engineer"},
-        {"en": "You can only make one dot at a time"},
-        {"en": "You don't have to be ashamed of using your own ideas"},
-        {"en": "[blank white card]"}
+        {
+			"en": "Abandon normal instruments",
+			"ko":"",
+			"bgi":"https://i.guim.co.uk/img/static/sys-images/Admin/BkFill/Default_image_group/2011/5/25/1306342934434/120th-Anniversary-Of-Carn-005.jpg?w=470&q=55&auto=format&usm=12&fit=max&s=8d1dcd3ab8df696d4d498a14521e6709"
+		},
+        {
+			"en": "Accept advice",
+			"ko":"충고를 받아들여라",
+			"bgi":""
+		},
+        {
+			"en": "Accretion",
+			"ko":"첨가하라",
+			"bgi":"https://68.media.tumblr.com/d65c13287870a1d9f725b192bbb13a3a/tumblr_newioi3PKu1txeruoo1_r1_500.gif"
+		},
+        {
+			"en": "A line has two sides",
+			"ko":"직선은 두 개의 측면을 가진다",
+			"bgi":""
+		},
+        {
+			"en": "Allow an easement (an easement is the abandonment of a stricture)",
+			"ko":"",
+			"bgi":""
+		},
+        {
+			"en": "Are there sections? Consider transitions",
+			"ko":"",
+			"bgi":""
+		},
+        {
+			"en": "Ask people to work against their better judgement",
+			"ko":"",
+			"bgi":""
+		},
+        {
+			"en": "Ask your body",
+			"ko":"당신의 몸에게 물어보라",
+			"bgi":""
+		},
+        {
+			"en": "Assemble some of the instruments in a group and treat the group",
+			"ko":"",
+			"bgi":""
+		},
+        {
+			"en": "Balance the consistency principle with the inconsistency principle",
+			"ko":"",
+			"bgi":""
+		},
+        {
+			"en": "Be dirty",
+			"ko":"",
+			"bgi":""
+		},
+        {
+			"en": "Breathe more deeply",
+			"ko":"",
+			"bgi":""
+		},
+        {
+			"en": "Bridges -build -burn",
+			"ko":"",
+			"bgi":""
+		},
+        {
+			"en": "Cascades",
+			"ko":"",
+			"bgi":""
+		},
+        {
+			"en": "Change instrument roles",
+			"ko":"",
+			"bgi":""
+		},
+        {
+			"en": "Change nothing and continue with immaculate consistency",
+			"ko":"",
+			"bgi":""
+		},
+        {
+			"en": "Children's voices -speaking -singing",
+			"ko":"",
+			"bgi":""
+		},
+        {
+			"en": "Cluster analysis",
+			"ko":"",
+			"bgi":""
+		},
+        {
+			"en": "Consider different fading systems",
+			"ko":"",
+			"bgi":""
+		},
+        {
+			"en": "Consult other sources -promising -unpromising",
+			"ko":"",
+			"bgi":""
+		},
+        {
+			"en": "Convert a melodic element into a rhythmic element",
+			"ko":"",
+			"bgi":""
+		},
+        {
+			"en": "Courage!",
+			"ko":"",
+			"bgi":""
+		},
+        {
+			"en": "Cut a vital connection",
+			"ko":"",
+			"bgi":""
+		},
+        {
+			"en": "Decorate, decorate",
+			"ko":"",
+			"bgi":""
+		},
+        {
+			"en": "Define an area as 'safe' and use it as an anchor",
+			"ko":"",
+			"bgi":""
+		},
+        {
+			"en": "Destroy -nothing -the most important thing",
+			"ko":"",
+			"bgi":""
+		},
+        {
+			"en": "Discard an axiom",
+			"ko":"",
+			"bgi":""
+		},
+        {
+			"en": "Disconnect from desire",
+			"ko":"",
+			"bgi":""
+		},
+        {
+			"en": "Discover the recipes you are using and abandon them",
+			"ko":"",
+			"bgi":""
+		},
+        {
+			"en": "Distorting time",
+			"ko":"",
+			"bgi":""
+		},
+        {
+			"en": "Do nothing for as long as possible",
+			"ko":"",
+			"bgi":""
+		},
+        {
+			"en": "Don't be afraid of things because they're easy to do",
+			"ko":"",
+			"bgi":""
+		},
+        {
+			"en": "Don't be frightened of cliches",
+			"ko":"",
+			"bgi":""
+		},
+        {
+			"en": "Don't be frightened to display your talents",
+			"ko":"",
+			"bgi":""
+		},
+        {
+			"en": "Don't break the silence",
+			"ko":"침묵을 깨지 말라",
+			"bgi":""
+		},
+        {
+			"en": "Don't stress one thing more than another",
+			"ko":"",
+			"bgi":""
+		},
+        {
+			"en": "Do something boring",
+			"ko":"지루한 일을 해보라",
+			"bgi":""
+		},
+        {
+			"en": "Do the washing up",
+			"ko":"",
+			"bgi":""
+		},
+        {
+			"en": "Do the words need changing?",
+			"ko":"",
+			"bgi":""
+		},
+        {
+			"en": "Do we need holes?",
+			"ko":"",
+			"bgi":""
+		},
+        {
+			"en": "Emphasise differences",
+			"ko":"",
+			"bgi":""
+		},
+        {
+			"en": "Emphasise repetitions",
+			"ko":"",
+			"bgi":""
+		},
+        {
+			"en": "Emphasise the flaws",
+			"ko":"",
+			"bgi":""
+		},
+        {
+			"en": "Faced with a choice, do both (given by Dieter Rot)",
+			"ko":"",
+			"bgi":""
+		},
+        {
+			"en": "Feedback recordings into an acoustic situation",
+			"ko":"",
+			"bgi":""
+		},
+        {
+			"en": "Fill every beat with something",
+			"ko":"",
+			"bgi":""
+		},
+        {
+			"en": "Get your neck massaged",
+			"ko":"",
+			"bgi":""
+		},
+        {
+			"en": "Ghost echoes",
+			"ko":"",
+			"bgi":""
+		},
+        {
+			"en": "Give the game away",
+			"ko":"",
+			"bgi":""
+		},
+        {
+			"en": "Give way to your worst impulse",
+			"ko":"",
+			"bgi":""
+		},
+        {
+			"en": "Go slowly all the way round the outside",
+			"ko":"",
+			"bgi":""
+		},
+        {
+			"en": "Honor thy error as a hidden intention",
+			"ko":"",
+			"bgi":""
+		},
+        {
+			"en": "How would you have done it?",
+			"ko":"",
+			"bgi":""
+		},
+        {
+			"en": "Humanise something free of error",
+			"ko":"",
+			"bgi":""
+		},
+        {
+			"en": "Imagine the music as a moving chain or caterpillar",
+			"ko":"",
+			"bgi":""
+		},
+        {
+			"en": "Imagine the music as a set of disconnected events",
+			"ko":"",
+			"bgi":""
+		},
+        {
+			"en": "Infinitesimal gradations",
+			"ko":"",
+			"bgi":""
+		},
+        {
+			"en": "Intentions -credibility of -nobility of -humility of",
+			"ko":"",
+			"bgi":""
+		},
+        {
+			"en": "Into the impossible",
+			"ko":"",
+			"bgi":""
+		},
+        {
+			"en": "Is it finished?",
+			"ko":"",
+			"bgi":""
+		},
+        {
+			"en": "Is there something missing?",
+			"ko":"",
+			"bgi":""
+		},
+        {
+			"en": "Is the tuning appropriate?",
+			"ko":"",
+			"bgi":""
+		},
+        {
+			"en": "Just carry on",
+			"ko":"",
+			"bgi":""
+		},
+        {
+			"en": "Left channel, right channel, centre channel",
+			"ko":"",
+			"bgi":""
+		},
+        {
+			"en": "Listen in total darkness, or in a very large room, very quietly",
+			"ko":"",
+			"bgi":""
+		},
+        {
+			"en": "Listen to the quiet voice",
+			"ko":"",
+			"bgi":""
+		},
+        {
+			"en": "Look at a very small object, look at its centre",
+			"ko":"",
+			"bgi":""
+		},
+        {
+			"en": "Look at the order in which you do things",
+			"ko":"",
+			"bgi":""
+		},
+        {
+			"en": "Look closely at the most embarrassing details and amplify them",
+			"ko":"",
+			"bgi":""
+		},
+        {
+			"en": "Lowest common denominator check -single beat -single note -single riff",
+			"ko":"",
+			"bgi":""
+		},
+        {
+			"en": "Make a blank valuable by putting it in an exquisite frame",
+			"ko":"",
+			"bgi":""
+		},
+        {
+			"en": "Make an exhaustive list of everything you might do and do the last thing on the list",
+			"ko":"",
+			"bgi":""
+		},
+        {
+			"en": "Make a sudden, destructive unpredictable action; incorporate",
+			"ko":"",
+			"bgi":""
+		},
+        {
+			"en": "Mechanicalise something idiosyncratic",
+			"ko":"",
+			"bgi":""
+		},
+        {
+			"en": "Mute and continue",
+			"ko":"",
+			"bgi":""
+		},
+        {
+			"en": "Only one element of each kind",
+			"ko":"",
+			"bgi":""
+		},
+        {
+			"en": "(Organic) machinery",
+			"ko":"",
+			"bgi":""
+		},
+        {
+			"en": "Overtly resist change",
+			"ko":"",
+			"bgi":""
+		},
+        {
+			"en": "Put in earplugs",
+			"ko":"",
+			"bgi":""
+		},
+        {
+			"en": "Remember .those quiet evenings",
+			"ko":"",
+			"bgi":""
+		},
+        {
+			"en": "Remove ambiguities and convert to specifics",
+			"ko":"",
+			"bgi":""
+		},
+        {
+			"en": "Remove specifics and convert to ambiguities",
+			"ko":"",
+			"bgi":""
+		},
+        {
+			"en": "Repetition is a form of change",
+			"ko":"",
+			"bgi":""
+		},
+        {
+			"en": "Reverse",
+			"ko":"",
+			"bgi":""
+		},
+        {
+			"en": "Short circuit (example; a man eating peas with the idea that they will improve his virility shovels them straight into his lap)",
+			"ko":"",
+			"bgi":""
+		},
+        {
+			"en": "Shut the door and listen from outside",
+			"ko":"",
+			"bgi":""
+		},
+        {
+			"en": "Simple subtraction",
+			"ko":"",
+			"bgi":""
+		},
+        {
+			"en": "Spectrum analysis",
+			"ko":"",
+			"bgi":""
+		},
+        {
+			"en": "Take a break",
+			"ko":"",
+			"bgi":""
+		},
+        {
+			"en": "Take away the elements in order of apparent non-importance",
+			"ko":"",
+			"bgi":""
+		},
+        {
+			"en": "Tape your mouth (given by Ritva Saarikko)",
+			"ko":"",
+			"bgi":""
+		},
+        {
+			"en": "The inconsistency principle",
+			"ko":"",
+			"bgi":""
+		},
+        {
+			"en": "The tape is now the music",
+			"ko":"",
+			"bgi":""
+		},
+        {
+			"en": "Think of the radio",
+			"ko":"",
+			"bgi":""
+		},
+        {
+			"en": "Tidy up",
+			"ko":"",
+			"bgi":""
+		},
+        {
+			"en": "Trust in the you of now",
+			"ko":"",
+			"bgi":""
+		},
+        {
+			"en": "Turn it upside down",
+			"ko":"",
+			"bgi":""
+		},
+        {
+			"en": "Twist the spine",
+			"ko":"",
+			"bgi":""
+		},
+        {
+			"en": "Use an old idea",
+			"ko":"",
+			"bgi":""
+		},
+        {
+			"en": "Use an unacceptable colour",
+			"ko":"",
+			"bgi":""
+		},
+        {
+			"en": "Use fewer notes",
+			"ko":"",
+			"bgi":""
+		},
+        {
+			"en": "Use filters",
+			"ko":"",
+			"bgi":""
+		},
+        {
+			"en": "Use 'unqualified' people",
+			"ko":"",
+			"bgi":""
+		},
+        {
+			"en": "Water",
+			"ko":"",
+			"bgi":""
+		},
+        {
+			"en": "What are you really thinking about just now? Incorporate",
+			"ko":"",
+			"bgi":""
+		},
+        {
+			"en": "What is the reality of the situation?",
+			"ko":"",
+			"bgi":""
+		},
+        {
+			"en": "What mistakes did you make last time?",
+			"ko":"",
+			"bgi":""
+		},
+        {
+			"en": "What would your closest friend do?",
+			"ko":"",
+			"bgi":""
+		},
+        {
+			"en": "What wouldn't you do?",
+			"ko":"",
+			"bgi":""
+		},
+        {
+			"en": "Work at a different speed",
+			"ko":"",
+			"bgi":""
+		},
+        {
+			"en": "You are an engineer",
+			"ko":"",
+			"bgi":""
+		},
+        {
+			"en": "You can only make one dot at a time",
+			"ko":"",
+			"bgi":""
+		},
+        {
+			"en": "You don't have to be ashamed of using your own ideas",
+			"ko":"",
+			"bgi":""
+		},
+        {
+			"en": "[blank white card]",
+			"ko":"",
+			"bgi":""
+		}
     ],
 
     "copyright": {

@@ -2,6 +2,8 @@ function rnd(min, max) {
     return Math.floor(Math.random() * (max - min + 1)) + min;
 }
 
+
+
 // for local works.
 var prefix = "https://raw.githubusercontent.com/seunghaekim/ObliqueStrategiesPrompter/master/json/";
 
