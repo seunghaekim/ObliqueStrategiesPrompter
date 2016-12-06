@@ -21,7 +21,8 @@ var decks = [
 ];
 
 
-var deck = rnd_deck(decks);
+// var deck = rnd_deck(decks);
+var deck = "obliqstradge.json";
 
 $(document).ready(function(){
     $.getJSON(prefix + deck, function(result) {

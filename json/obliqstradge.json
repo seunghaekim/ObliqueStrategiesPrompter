@@ -1,6 +1,11 @@
 {
     "deck": [
         {
+            "en":    "Accept advice",
+            "ko":    "충고를 받아들여라",
+            "bgi":   "https://i.ytimg.com/vi/TzLnbt15uuU/maxresdefault.jpg"
+        },
+        {
 			"en":    "Abandon normal instruments",
 			"ko":    "",
 			"bgi":   ""
@@ -13,11 +18,6 @@
         {
 			"en":    "A line has two sides",
 			"ko":    "직선은 두 개의 측면을 가진다",
-			"bgi":   ""
-		},
-        {
-			"en":    "Allow an easement (an easement is the abandonment of a stricture)",
-			"ko":    "",
 			"bgi":   ""
 		},
         {
@@ -86,21 +86,6 @@
 			"bgi":   ""
 		},
         {
-			"en":    "Consider different fading systems",
-			"ko":    "",
-			"bgi":   ""
-		},
-        {
-			"en":    "Consult other sources -promising -unpromising",
-			"ko":    "",
-			"bgi":   ""
-		},
-        {
-			"en":    "Convert a melodic element into a rhythmic element",
-			"ko":    "",
-			"bgi":   ""
-		},
-        {
 			"en":    "Courage!",
 			"ko":    "용기!",
 			"bgi":   ""
@@ -117,7 +102,7 @@
 		},
         {
 			"en":    "Define an area as 'safe' and use it as an anchor",
-			"ko":    "",
+			"ko":    "한 구역을 안전하다 규정하고 이를 지표로 삼으라",
 			"bgi":   ""
 		},
         {
@@ -137,7 +122,7 @@
 		},
         {
 			"en":    "Discover the recipes you are using and abandon them",
-			"ko":    "",
+			"ko":    "당신이 주로 사용하는 레시피를 찾아내고, 그걸 버려라",
 			"bgi":   ""
 		},
         {
@@ -176,13 +161,8 @@
 			"bgi":   ""
 		},
         {
-			"en":    "Do something boring",
-			"ko":    "지루한 일을 해보라",
-			"bgi":   ""
-		},
-        {
 			"en":    "Do the washing up",
-			"ko":    "",
+			"ko":    "씻어내라",
 			"bgi":   ""
 		},
         {
@@ -232,12 +212,12 @@
 		},
         {
 			"en":    "Ghost echoes",
-			"ko":    "",
+			"ko":    "유령의 메아리",
 			"bgi":   ""
 		},
         {
 			"en":    "Give the game away",
-			"ko":    "",
+			"ko":    "판을 엎어라",
 			"bgi":   ""
 		},
         {
@@ -267,12 +247,12 @@
 		},
         {
 			"en":    "Imagine the music as a moving chain or caterpillar",
-			"ko":    "",
+			"ko":    "음악을 움직이는 체인 혹은 무한궤도라고 상상해보라",
 			"bgi":   ""
 		},
         {
 			"en":    "Imagine the music as a set of disconnected events",
-			"ko":    "",
+			"ko":    "음악이 단절된 사건들의 조합이라고 생각해보라",
 			"bgi":   ""
 		},
         {
@@ -564,6 +544,577 @@
 			"en":    "[blank white card]",
 			"ko":    "",
 			"bgi":   ""
+		},
+        {
+			"en": "Always first steps",
+			"ko":"",
+			"bgi":""
+		},
+        {
+			"en": "Always give yourself credit for having more than personality (given by Arto Lindsay)",
+			"ko":"",
+			"bgi":""
+		},
+        {
+			"en": "A very small object -Its centre",
+			"ko":"",
+			"bgi":""
+		},
+        {
+			"en": "Be extravagant",
+			"ko":"",
+			"bgi":""
+		},
+        {
+			"en": "Consider different fading systems",
+			"ko":"",
+			"bgi":""
+		},
+        {
+			"en": "Consult other sources -promising -unpromising",
+			"ko":"",
+			"bgi":""
+		},
+        {
+			"en": "Convert a melodic element into a rhythmic element",
+			"ko":"",
+			"bgi":""
+		},
+        {
+			"en": "Disciplined self-indulgence",
+			"ko":"",
+			"bgi":""
+		},
+        {
+            "en": "Don't stress *on* thing more than another (sic)"
+        },
+        {
+			"en": "Do something boring",
+            "ko":"지루한 일을 해보라",
+			"bgi":""
+		},
+        {
+			"en": "Feed the recording back out of the medium",
+			"ko":"",
+			"bgi":""
+		},
+        {
+			"en": "Idiot glee (?)",
+			"ko":"",
+			"bgi":""
+		},
+        {
+			"en": "Imagine the piece as a set of disconnected events",
+			"ko":"",
+			"bgi":""
+		},
+        {
+			"en": "Is the tuning intonation correct?",
+			"ko":"",
+			"bgi":""
+		},
+        {
+			"en": "It is quite possible (after all)",
+			"ko":"",
+			"bgi":""
+		},
+        {
+			"en": "Lost in useless territory",
+			"ko":"",
+			"bgi":""
+		},
+        {
+			"en": "Lowest common denominator",
+			"ko":"",
+			"bgi":""
+		},
+        {
+			"en": "Not building a wall but making a brick",
+			"ko":"",
+			"bgi":""
+		},
+        {
+			"en": "Question the heroic approach",
+			"ko":"",
+			"bgi":""
+		},
+        {
+			"en": "Remember .those quiet evenings",
+			"ko":"",
+			"bgi":""
+		},
+        {
+			"en": "Revaluation (a warm feeling)",
+			"ko":"",
+			"bgi":""
+		},
+        {
+			"en": "Simply a matter of work",
+			"ko":"",
+			"bgi":""
+		},
+        {
+			"en": "State the problem in words as simply as possible",
+			"ko":"",
+			"bgi":""
+		},
+        {
+			"en": "The most important thing is the thing most easily forgotten",
+			"ko":"",
+			"bgi":""
+		},
+        {
+			"en": "Towards the insignificant",
+			"ko":"",
+			"bgi":""
+		},
+        {
+			"en": "What are the sections sections of? Imagine a caterpillar moving",
+			"ko":"",
+			"bgi":""
+		},
+        {
+			"en": "What are you really thinking about just now?",
+			"ko":"",
+			"bgi":""
+		},
+        {
+			"en": "Assemble some of the elements in a group and treat the group",
+			"ko":"",
+			"bgi":""
+		},
+        {
+			"en": "Be less critical more often",
+			"ko":"",
+			"bgi":""
+		},
+        {
+			"en": "Children -speaking -singing",
+			"ko":"",
+			"bgi":""
+		},
+        {
+			"en": "Disciplined self-indulgence",
+			"ko":"",
+			"bgi":""
+		},
+        {
+			"en": "Don't stress one thing more than another",
+			"ko":"",
+			"bgi":""
+		},
+        {
+			"en": "From nothing to more than nothing",
+			"ko":"",
+			"bgi":""
+		},
+        {
+			"en": "Go to an extreme, move back to a more comfortable place",
+			"ko":"",
+			"bgi":""
+		},
+        {
+			"en": "Idiot glee (?)",
+			"ko":"",
+			"bgi":""
+		},
+        {
+			"en": "Imagine the piece as a set of disconnected events",
+			"ko":"",
+			"bgi":""
+		},
+        {
+			"en": "Intentions -nobility of -humility of -credibility of",
+			"ko":"",
+			"bgi":""
+		},
+        {
+			"en": "Is the intonation correct?",
+			"ko":"",
+			"bgi":""
+		},
+        {
+			"en": "It is quite possible (after all)",
+			"ko":"",
+			"bgi":""
+		},
+        {
+			"en": "Lost in useless territory",
+			"ko":"",
+			"bgi":""
+		},
+        {
+			"en": "Lowest common denominator",
+			"ko":"",
+			"bgi":""
+		},
+        {
+			"en": "Not building a wall but making a brick",
+			"ko":"",
+			"bgi":""
+		},
+        {
+			"en": "Once the search is in progress, something will be found",
+			"ko":"",
+			"bgi":""
+		},
+        {
+			"en": "Question the heroic approach",
+			"ko":"",
+			"bgi":""
+		},
+        {
+			"en": "Remember .those quiet evenings",
+			"ko":"",
+			"bgi":""
+		},
+        {
+			"en": "Revaluation (a warm feeling)",
+			"ko":"",
+			"bgi":""
+		},
+        {
+			"en": "Short circuit (example; a man eating peas with the idea that they will improve his virility shovels them, straight into his lap)"
+        },
+        {
+			"en": "Simply a matter of work",
+			"ko":"",
+			"bgi":""
+		},
+        {
+			"en": "State the problem in words as clearly as possible",
+			"ko":"",
+			"bgi":""
+		},
+        {
+			"en": "The most important thing is the thing most easily forgotten",
+			"ko":"",
+			"bgi":""
+		},
+        {
+			"en": "Towards the insignificant",
+			"ko":"",
+			"bgi":""
+		},
+        {
+			"en": "What are the sections sections of? Imagine a caterpillar moving",
+			"ko":"",
+			"bgi":""
+		},
+        {
+			"en": "What are you really thinking about just now?",
+			"ko":"",
+			"bgi":""
+		},
+        {
+			"en": "Would anybody want it?",
+			"ko":"",
+			"bgi":""
+		},
+        {
+			"en": "Abandon desire",
+			"ko":"",
+			"bgi":""
+		},
+		{
+			"en": "Abandon normal instructions",
+			"ko":"",
+			"bgi":""
+		},
+		{
+			"en": "Adding on",
+			"ko":"추가하라",
+			"bgi":""
+		},
+		{
+			"en": "Always the first steps",
+			"ko":"",
+			"bgi":""
+		},
+		{
+			"en": "Be less critical",
+			"ko":"",
+			"bgi":""
+		},
+		{
+			"en": "Change ambiguities to specifics",
+			"ko":"",
+			"bgi":""
+		},
+		{
+			"en": "Change nothing and continue consistently",
+			"ko":"",
+			"bgi":""
+		},
+		{
+			"en": "Change specifics to ambiguities",
+			"ko":"",
+			"bgi":""
+		},
+		{
+			"en": "Consider transitions",
+			"ko":"",
+			"bgi":""
+		},
+		{
+			"en": "Destroy nothing; Destroy the most important thing",
+			"ko":"",
+			"bgi":""
+		},
+		{
+			"en": "Disciplined self-indulgence",
+			"ko":"",
+			"bgi":""
+		},
+		{
+			"en": "Discover your formulas and abandon them",
+			"ko":"",
+			"bgi":""
+		},
+		{
+			"en": "Display your talent",
+			"ko":"",
+			"bgi":""
+		},
+		{
+			"en": "Distort time",
+			"ko":"",
+			"bgi":""
+		},
+		{
+			"en": "Don't avoid what is easy",
+			"ko":"쉬운 길을 피하지 말라",
+			"bgi":""
+		},
+		{
+			"en": "Don't stress one thing more than another",
+			"ko":"",
+			"bgi":""
+		},
+		{
+			"en": "Do something sudden, destructive and unpredictable",
+			"ko":"",
+			"bgi":""
+		},
+		{
+			"en": "Do the last thing first",
+			"ko":"",
+			"bgi":""
+		},
+		{
+			"en": "Emphasize differences",
+			"ko":"",
+			"bgi":""
+		},
+		{
+			"en": "Emphasize the flaws",
+			"ko":"",
+			"bgi":""
+		},
+		{
+			"en": "Faced with a choice, do both (from Dieter Rot)",
+			"ko":"",
+			"bgi":""
+		},
+		{
+			"en": "Find a safe part and use it as an anchor",
+			"ko":"",
+			"bgi":""
+		},
+		{
+			"en": "Go outside. Shut the door.",
+			"ko":"",
+			"bgi":""
+		},
+		{
+			"en": "Go to an extreme, come part way back",
+			"ko":"",
+			"bgi":""
+		},
+		{
+			"en": "How would someone else do it?",
+			"ko":"",
+			"bgi":""
+		},
+		{
+			"en": "In total darkness, or in a very large room, very quietly",
+			"ko":"",
+			"bgi":""
+		},
+		{
+			"en": "Is something missing?",
+			"ko":"",
+			"bgi":""
+		},
+		{
+			"en": "Is the style right?",
+			"ko":"",
+			"bgi":""
+		},
+		{
+			"en": "It is simply a matter or work",
+			"ko":"",
+			"bgi":""
+		},
+		{
+			"en": "Magnify the most difficult details",
+			"ko":"",
+			"bgi":""
+		},
+		{
+			"en": "Make it more sensual",
+			"ko":"",
+			"bgi":""
+		},
+		{
+			"en": "Make what's perfect more human",
+			"ko":"",
+			"bgi":""
+		},
+		{
+			"en": "Move towards the unimportant",
+			"ko":"",
+			"bgi":""
+		},
+		{
+			"en": "Not building a wall; making a brick",
+			"ko": "벽이 아니라 벽돌을 만들라",
+			"bgi":""
+		},
+		{
+			"en": "Once the search has begun, something will be found",
+			"ko":"",
+			"bgi":""
+		},
+		{
+			"en": "Only a part, not the whole",
+			"ko":"부분만, 전체가 아니라",
+			"bgi":""
+		},
+		{
+			"en": "Openly resist change",
+			"ko":"",
+			"bgi":""
+		},
+		{
+			"en": "Pae White's non-blank graphic metacard",
+			"ko":"",
+			"bgi":""
+		},
+		{
+			"en": "Question the heroic",
+			"ko":"",
+			"bgi":""
+		},
+		{
+			"en": "Remember quiet evenings",
+			"ko":"",
+			"bgi":""
+		},
+		{
+			"en": "Remove a restriction",
+			"ko":"",
+			"bgi":""
+		},
+		{
+			"en": "Retrace your steps",
+			"ko":"당신의 자취를 다시 추적하라",
+			"bgi":""
+		},
+		{
+			"en": "Slow preparation, fast execution",
+			"ko":"",
+			"bgi":""
+		},
+		{
+			"en": "State the problem as clearly as possible",
+			"ko":"",
+			"bgi":""
+		},
+		{
+			"en": "Take away the important parts",
+			"ko":"",
+			"bgi":""
+		},
+		{
+			"en": "The most easily forgotten thing is the most important",
+			"ko":"",
+			"bgi":""
+		},
+		{
+			"en": "Think - inside the work -outside the work",
+			"ko":"",
+			"bgi":""
+		},
+		{
+			"en": "Try faking it (from Stewart Brand)",
+			"ko":"",
+			"bgi":""
+		},
+		{
+			"en": "Use cliches",
+			"ko":"상투적으로",
+			"bgi":""
+		},
+		{
+			"en": "Use something nearby as a model",
+			"ko":"",
+			"bgi":""
+		},
+		{
+			"en": "Use your own ideas",
+			"ko":"당신만의 생각으로",
+			"bgi":""
+		},
+		{
+			"en": "Voice your suspicions",
+			"ko":"",
+			"bgi":""
+		},
+		{
+			"en": "What context would look right?",
+			"ko":"",
+			"bgi":""
+		},
+		{
+			"en": "What is the simplest solution?",
+			"ko":"",
+			"bgi":""
+		},
+		{
+			"en": "What to increase? What to reduce? What to maintain?",
+			"ko":"",
+			"bgi":""
+		},
+		{
+			"en": "What were you really thinking about just now?",
+			"ko":"",
+			"bgi":""
+		},
+		{
+			"en": "When is it for?",
+			"ko":"",
+			"bgi":""
+		},
+		{
+			"en": "Where is the edge?",
+			"ko":"모서리는 어딨지?",
+			"bgi":""
+		},
+		{
+			"en": "Which parts can be grouped?",
+			"ko":"",
+			"bgi":""
+		},
+		{
+			"en": "Would anyone want it?",
+			"ko":"",
+			"bgi":""
+		},
+		{
+			"en": "Your mistake was a hidden intention",
+			"ko":"",
+			"bgi":""
 		}
     ],
 
