@@ -2,6 +2,7 @@
 
 body {
     font-family: 'Libre Baskerville', serif;
+    background-size: 101vmax;
 }
 #deck_info,
 #copyright {
@@ -25,6 +26,12 @@ body {
     font-size: 4em;
     line-height: 119%;
     letter-spacing: -0.03em;
+}
+
+.__whitebackground {
+    background-color: white;
+    padding-left: 1%;
+    padding-right: 1%;
 }
 
 #copyright {

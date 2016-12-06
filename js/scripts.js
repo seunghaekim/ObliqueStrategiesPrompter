@@ -32,10 +32,10 @@ $(document).ready(function(){
         preamble = "Copyright Message from <a href=\"http://www.rtqe.net/ObliqueStrategies/\">Origin Website</a>: ";
 
         $( "#deck_info" ).append(deck_info);
-        $( "#card" ).append("<h1>"+acard+"<h1>");
+        $( "#card" ).append("<h1><span class=\"__whitebackground\">"+acard+"</span><h1>");
         $( ".deck" ).append(copyright.deck);
         $( ".website" ).append(preamble+copyright.website);
-        $( "body" ).css({'background-image':'url('+result.deck[rnd_card].bgi')'})
+        $( "body" ).css({'background-image':'url('+result.deck[rnd_card].bgi+')'})
     })
 
 })
