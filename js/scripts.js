@@ -3,7 +3,7 @@ function rnd(min, max) {
 }
 
 // for local works.
-var prefix = "https://raw.githubusercontent.com/seunghaekim/seunghaekim.github.io/master/obliqstradge/";
+var prefix = "https://raw.githubusercontent.com/seunghaekim/ObliqueStrategiesPrompter/master/json/";
 
 // for gitpage
 // var prefix ="../json/";
