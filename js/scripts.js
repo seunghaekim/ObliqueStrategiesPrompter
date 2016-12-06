@@ -1,7 +1,10 @@
 function rnd(min, max) {
-    return Math.floor(Math.random() * (max - min + 1)) + min;
+    return Math.floor(Math.random() * (max - 1)) + min;
 }
 
+function rnd_deck (put) {
+    return put[rnd(0, put.length)];
+}
 
 
 // for local works.
@@ -17,9 +20,6 @@ var decks = [
     "obliqstradge.ed4.json",
 ];
 
-function rnd_deck (put) {
-    return put[rnd(0, put.length)];
-}
 
 var deck = rnd_deck(decks);
 
@@ -35,5 +35,7 @@ $(document).ready(function(){
         $( "#card" ).append("<h1>"+acard+"<h1>");
         $( ".deck" ).append(copyright.deck);
         $( ".website" ).append(preamble+copyright.website);
+        $( "body" ).css({'background-image':'url('+result.deck[rnd_card].bgi')'})
     })
+
 })
