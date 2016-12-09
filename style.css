@@ -1,9 +1,14 @@
+/*eng fonts*/
 @import url('https://fonts.googleapis.com/css?family=Libre+Baskerville');
 
+/*kor fonts*/
+@import url(http://fonts.googleapis.com/earlyaccess/kopubbatang.css);
+
 body {
-    font-family: 'Libre Baskerville', serif;
+    font-family: 'Libre Baskerville', 'KoPub Batang', serif;
     background-size: 101vmax;
 }
+
 #deck_info,
 #copyright {
     font-size: 0.7em;

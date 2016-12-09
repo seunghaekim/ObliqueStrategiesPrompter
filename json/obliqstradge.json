@@ -822,8 +822,8 @@
 			"bgi":""
 		},
 		{
-			"en": "Adding on",
-			"ko":"추가하라",
+			"en":    "Adding on",
+			"ko":    "추가하라",
 			"bgi":""
 		},
 		{
@@ -877,13 +877,13 @@
 			"bgi":""
 		},
 		{
-			"en": "Distort time",
-			"ko":"",
+			"en":    "Distort time",
+			"ko":    "뒤틀린 시간",
 			"bgi":""
 		},
 		{
-			"en": "Don't avoid what is easy",
-			"ko":"쉬운 길을 피하지 말라",
+			"en":    "Don't avoid what is easy",
+			"ko":    "쉬운 길을 피하지 말라",
 			"bgi":""
 		},
 		{
@@ -977,8 +977,8 @@
 			"bgi":""
 		},
 		{
-			"en": "Not building a wall; making a brick",
-			"ko": "벽이 아니라 벽돌을 만들라",
+			"en":    "Not building a wall; making a brick",
+			"ko":    "벽이 아니라 벽돌을 만들라",
 			"bgi":""
 		},
 		{
@@ -987,8 +987,8 @@
 			"bgi":""
 		},
 		{
-			"en": "Only a part, not the whole",
-			"ko":"부분만, 전체가 아니라",
+			"en":    "Only a part, not the whole",
+			"ko":    "부분. 전체가 아니라",
 			"bgi":""
 		},
 		{
@@ -1012,13 +1012,13 @@
 			"bgi":""
 		},
 		{
-			"en": "Remove a restriction",
+			"en":    "Remove a restriction",
 			"ko":"",
 			"bgi":""
 		},
 		{
-			"en": "Retrace your steps",
-			"ko":"당신의 자취를 다시 추적하라",
+			"en":    "Retrace your steps",
+			"ko":    "당신의 자취를 다시 추적하라",
 			"bgi":""
 		},
 		{
@@ -1032,89 +1032,89 @@
 			"bgi":""
 		},
 		{
-			"en": "Take away the important parts",
-			"ko":"",
+			"en":    "Take away the important parts",
+			"ko":    "가장 중요한 부분을 걷어내라",
 			"bgi":""
 		},
 		{
-			"en": "The most easily forgotten thing is the most important",
-			"ko":"",
+			"en":    "The most easily forgotten thing is the most important",
+			"ko":    "가장 쉽게 잊을 수 있는게 가장 중요한 것이다",
 			"bgi":""
 		},
 		{
-			"en": "Think - inside the work -outside the work",
-			"ko":"",
+			"en":    "Think - inside the work -outside the work",
+			"ko":    "작업의 내부, 작업의 외부를 생각해보라",
 			"bgi":""
 		},
 		{
-			"en": "Try faking it (from Stewart Brand)",
-			"ko":"",
+			"en":    "Try faking it (from Stewart Brand)",
+			"ko":    "속여 (Stewart Brand로부터)",
 			"bgi":""
 		},
 		{
-			"en": "Use cliches",
-			"ko":"상투적으로",
+			"en":    "Use cliches",
+			"ko":    "상투적으로",
 			"bgi":""
 		},
 		{
-			"en": "Use something nearby as a model",
-			"ko":"",
+			"en":    "Use something nearby as a model",
+			"ko":    "근처에 있던 걸 모델로 활용하라",
 			"bgi":""
 		},
 		{
-			"en": "Use your own ideas",
-			"ko":"당신만의 생각으로",
+			"en":    "Use your own ideas",
+			"ko":    "당신만의 생각으로",
 			"bgi":""
 		},
 		{
-			"en": "Voice your suspicions",
-			"ko":"",
+			"en":    "Voice your suspicions",
+			"ko":    "",
 			"bgi":""
 		},
 		{
-			"en": "What context would look right?",
-			"ko":"",
+			"en":    "What context would look right?",
+			"ko":    "",
 			"bgi":""
 		},
 		{
-			"en": "What is the simplest solution?",
-			"ko":"",
+			"en":    "What is the simplest solution?",
+			"ko":    "가장 쉬운 해법이 무엇인가?",
 			"bgi":""
 		},
 		{
-			"en": "What to increase? What to reduce? What to maintain?",
-			"ko":"",
+			"en":    "What to increase? What to reduce? What to maintain?",
+			"ko":    "증가될 수 있는 건 무엇인가, 제외할 수 있는 건, 유지해야만 하는 건?",
 			"bgi":""
 		},
 		{
-			"en": "What were you really thinking about just now?",
-			"ko":"",
+			"en":    "What were you really thinking about just now?",
+			"ko":    "금방 당신이 생각하던 것이 무엇이지?",
 			"bgi":""
 		},
 		{
-			"en": "When is it for?",
-			"ko":"",
+			"en":    "When is it for?",
+			"ko":    "그게 언제지?",
 			"bgi":""
 		},
 		{
-			"en": "Where is the edge?",
-			"ko":"모서리는 어딨지?",
+			"en":    "Where is the edge?",
+			"ko":    "모서리는 어딨지?",
 			"bgi":""
 		},
 		{
-			"en": "Which parts can be grouped?",
-			"ko":"",
+			"en":    "Which parts can be grouped?",
+			"ko":    "묶을 수 있는 부분이 있을까?",
 			"bgi":""
 		},
 		{
-			"en": "Would anyone want it?",
-			"ko":"",
+			"en":    "Would anyone want it?",
+			"ko":    "그걸 원하는 이들이 있을까?",
 			"bgi":""
 		},
 		{
-			"en": "Your mistake was a hidden intention",
-			"ko":"",
-			"bgi":""
+			"en":    "Your mistake was a hidden intention",
+			"ko":    "당신의 실수는 숨겨진 의도이다",
+			"bgi":   "http://i.imgur.com/jedfXV0.gif"
 		}
     ],
 
