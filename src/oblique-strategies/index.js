@@ -3,10 +3,6 @@ import ed2 from './decks/ed2'
 import ed3 from './decks/ed3'
 import ed4 from './decks/ed4'
 
-const random_element = (arr) => {
-  return arr[Math.floor(Math.random() * arr.length)]
-}
-
 const defaultCardFactory = (deck) => {
   return Object.assign({
     en: undefined,
@@ -16,13 +12,39 @@ const defaultCardFactory = (deck) => {
 }
 
 const decks = { ed1, ed2, ed3, ed4 }
-const deck_key = random_element(Object.keys(decks))
 
-const deck = decks[deck_key]
+const deckKeys = Object.keys(decks)
+
+const getRandomInt = (min, max) => {
+  min = Math.ceil(min);
+  max = Math.floor(max);
+  return Math.floor(Math.random() * (max - min)) + min;
+}
+
+const getRandomIdx = (min, max) => {
+  let deckIdx = getRandomInt(0, deckKeys.length)
+  let deck = decks[deckKeys[deckIdx]]
+  let cardIdx = getRandomInt(0, deck.deck.length)
+  return [deckIdx, cardIdx].join('.')
+}
+
+const getDeck = (id=0) => {
+  let idxArr = id.split('.')
+  let deckIdx = idxArr[0]
+  let cardIdx = idxArr[1]
+
+  let deck = decks[deckKeys[deckIdx]]
+
+  return {
+    ed: deckKeys[deckIdx],
+    copyright: deck.copyright,
+    card: deck.deck[cardIdx]
+  }
+}
 
 export default {
-  ed: deck_key,
+  defaultCardFactory,
+  getRandomIdx,
   decks,
-  deck,
-  card: defaultCardFactory(random_element(deck.deck))
+  deck: getDeck
 }
